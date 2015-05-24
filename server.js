@@ -8,7 +8,7 @@ var app 		= express();									// define our app using express
 var bodyParser 	= require('body-parser');
 var session     = require('express-session');
 var path 		= require('path');
-var port = 3000;
+var port = 8000;
 
 
 // configure app to use bodyParser()
@@ -20,8 +20,10 @@ app.use(bodyParser.json());
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
 
+app.use(express.static(path.join(__dirname, 'public')));
+
 app.get('/', function (req, res) {
-	res.send('Hello World');
+	res.render('index', { name: 'Bean Bag'});
 });
 
 app.listen(port);

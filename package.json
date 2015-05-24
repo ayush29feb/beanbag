@@ -12,6 +12,7 @@
     "express-session": "^1.10.4",
     "fs": "0.0.2",
     "http": "0.0.0",
+    "jade": "^1.9.2",
     "mongoose": "~3.6.13",
     "passport": "^0.2.1",
     "passport-facebook": "^2.0.0",
