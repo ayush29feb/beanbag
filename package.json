@@ -1,0 +1,21 @@
+{
+  "name": "beanbag",
+  "version": "1.0.0",
+  "description": "Bean Bag Delivery",
+  "main": "server.js",
+  "author": "Ayush Saraf <ayush29f@uw.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "connect-flash": "^0.1.1",
+    "express": "4.0.0",
+    "express-session": "^1.10.4",
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "mongoose": "~3.6.13",
+    "passport": "^0.2.1",
+    "passport-facebook": "^2.0.0",
+    "request": "^2.54.0",
+    "twilio": "^1.11.1"
+  }
+}
