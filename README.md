@@ -3,5 +3,5 @@
 
 ### The Story
   - I am nocturnal, and at least 3 nights a week I don't spend the night in my dorm room.
-  - I wished, only if I could had a bean bag at the Odegaard Library to sleep on.
+  - I wished, only if I could have a bean bag to sleep on at the Odegaard Library when I am pulling an all nighter.
   - So, at the end of the Codeday Spring 2015, when my project fell apart, I decided to make 'Bean Bag' in the last 2 hours
