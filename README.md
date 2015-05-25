@@ -4,4 +4,4 @@
   - I am nocturnal, and at least 3 nights a week I don't spend the night in my dorm room.
   - I wished, only if I could have a bean bag to sleep on at the Odegaard Library when I am pulling an all nighter.
   - So, at the end of the Codeday Spring 2015, when my project fell apart, I decided to make 'Bean Bag' in the last 2 hours
-![alt tag](https://raw.githubusercontent.com/ayush29feb/beanbag/master/public/assets/logo-md.png)
+### ![alt tag](https://raw.githubusercontent.com/ayush29feb/beanbag/master/public/assets/logo-md.png)
