@@ -1,4 +1,4 @@
-### Bean Bag App
+# Bean Bag App
   - Bean Bag is simple app that will text us notifying to deliver you a beanbag at Odegaard Library (UW Seattle) in the middle of the night for you to sleep on.
 
 ### The Story
